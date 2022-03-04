@@ -12,7 +12,7 @@ public class DmvSimulator {
 		for(int i = 0; i <= waitTime ; i ++) {
 				System.out.println("Number " + i+ " is next.");
 				if(i == waitTime) {
-					System.out.println("It is your turn! It looks like you do not have the required paperwork. See you later!");	
+					System.out.println("It is your turn! It looks like you do not have the required paperwork. So go home and leave us alone!");	
 					}
 			 	}
 			}
